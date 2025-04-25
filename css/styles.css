@@ -37,6 +37,13 @@ p {
     color: white;
 }
 
+.ccenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+  } 
+
 .pDark h3 {
     color: white;
 }
